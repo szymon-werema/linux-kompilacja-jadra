@@ -1,0 +1,19 @@
+!<thin>
+//                                              130       `
+core.o/
+pinctrl-utils.o/
+pinmux.o/
+pinconf.o/
+pinconf-generic.o/
+pinctrl-amd.o/
+intel/pinctrl-baytrail.o/
+intel/pinctrl-intel.o/
+
+/0              0           0     0     644     41248     `
+/8              0           0     0     644     4744      `
+/25             0           0     0     644     12540     `
+/35             0           0     0     644     6748      `
+/46             0           0     0     644     4116      `
+/65             0           0     0     644     19744     `
+/80             0           0     0     644     30992     `
+/106            0           0     0     644     19028     `

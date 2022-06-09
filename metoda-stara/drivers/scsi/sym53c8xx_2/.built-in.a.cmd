@@ -1,0 +1,1 @@
+cmd_drivers/scsi/sym53c8xx_2/built-in.a := echo >/dev/null; rm -f drivers/scsi/sym53c8xx_2/built-in.a; ar cDPrST drivers/scsi/sym53c8xx_2/built-in.a drivers/scsi/sym53c8xx_2/sym_fw.o drivers/scsi/sym53c8xx_2/sym_glue.o drivers/scsi/sym53c8xx_2/sym_hipd.o drivers/scsi/sym53c8xx_2/sym_malloc.o drivers/scsi/sym53c8xx_2/sym_nvram.o

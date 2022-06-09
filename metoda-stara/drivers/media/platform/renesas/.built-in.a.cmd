@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/renesas/built-in.a := echo >/dev/null; rm -f drivers/media/platform/renesas/built-in.a; ar cDPrST drivers/media/platform/renesas/built-in.a drivers/media/platform/renesas/rcar-vin/built-in.a drivers/media/platform/renesas/vsp1/built-in.a

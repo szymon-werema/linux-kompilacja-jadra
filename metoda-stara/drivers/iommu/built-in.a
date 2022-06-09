@@ -1,0 +1,25 @@
+!<thin>
+//                                              150       `
+intel/dmar.o/
+intel/iommu.o/
+intel/pasid.o/
+intel/trace.o/
+intel/cap_audit.o/
+iommu.o/
+iommu-traces.o/
+iommu-sysfs.o/
+dma-iommu.o/
+ioasid.o/
+iova.o/
+
+/0              0           0     0     644     36368     `
+/14             0           0     0     644     58256     `
+/29             0           0     0     644     9344      `
+/44             0           0     0     644     10716     `
+/59             0           0     0     644     14284     `
+/78             0           0     0     644     56148     `
+/87             0           0     0     644     28212     `
+/103            0           0     0     644     4924      `
+/118            0           0     0     644     21476     `
+/131            0           0     0     644     8792      `
+/141            0           0     0     644     13144     `

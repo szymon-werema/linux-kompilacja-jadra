@@ -1,0 +1,1 @@
+cmd_kernel/sched/built-in.a := echo >/dev/null; rm -f kernel/sched/built-in.a; ar cDPrST kernel/sched/built-in.a kernel/sched/core.o kernel/sched/fair.o kernel/sched/build_policy.o kernel/sched/build_utility.o

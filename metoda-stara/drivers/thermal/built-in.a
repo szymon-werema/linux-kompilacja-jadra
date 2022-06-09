@@ -1,0 +1,23 @@
+!<thin>
+//                                              180       `
+thermal_core.o/
+thermal_sysfs.o/
+thermal_helpers.o/
+thermal_netlink.o/
+thermal_hwmon.o/
+gov_fair_share.o/
+gov_bang_bang.o/
+gov_step_wise.o/
+gov_user_space.o/
+intel/therm_throt.o/
+
+/0              0           0     0     644     38692     `
+/16             0           0     0     644     15472     `
+/33             0           0     0     644     6504      `
+/52             0           0     0     644     13696     `
+/71             0           0     0     644     6444      `
+/88             0           0     0     644     2576      `
+/106            0           0     0     644     2536      `
+/123            0           0     0     644     2848      `
+/140            0           0     0     644     2428      `
+/158            0           0     0     644     16928     `

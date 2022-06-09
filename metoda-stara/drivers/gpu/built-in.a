@@ -1,0 +1,9 @@
+!<thin>
+//                                              80        `
+drm/drm_nomodeset.o/
+drm/drm_panel_orientation_quirks.o/
+vga/vga_switcheroo.o/
+
+/0              0           0     0     644     2208      `
+/21             0           0     0     644     13240     `
+/57             0           0     0     644     18104     `

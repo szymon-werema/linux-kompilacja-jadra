@@ -1,0 +1,57 @@
+!<thin>
+//                                              558       `
+keys/gc.o/
+keys/key.o/
+keys/keyring.o/
+keys/keyctl.o/
+keys/permission.o/
+keys/process_keys.o/
+keys/request_key.o/
+keys/request_key_auth.o/
+keys/user_defined.o/
+keys/proc.o/
+keys/sysctl.o/
+keys/dh.o/
+keys/keyctl_pkey.o/
+keys/trusted-keys/trusted_core.o/
+keys/trusted-keys/trusted_tpm1.o/
+keys/trusted-keys/trusted_tpm2.o/
+keys/trusted-keys/tpm2key.asn1.o/
+keys/encrypted-keys/encrypted.o/
+keys/encrypted-keys/ecryptfs_format.o/
+keys/encrypted-keys/masterkey_trusted.o/
+commoncap.o/
+min_addr.o/
+security.o/
+inode.o/
+lsm_audit.o/
+device_cgroup.o/
+bpf/hooks.o/
+
+/0              0           0     0     644     5788      `
+/11             0           0     0     644     18740     `
+/23             0           0     0     644     18404     `
+/39             0           0     0     644     17356     `
+/54             0           0     0     644     2628      `
+/73             0           0     0     644     10224     `
+/94             0           0     0     644     10424     `
+/114            0           0     0     644     4440      `
+/139            0           0     0     644     5956      `
+/160            0           0     0     644     5720      `
+/173            0           0     0     644     1508      `
+/188            0           0     0     644     4684      `
+/199            0           0     0     644     3668      `
+/219            0           0     0     644     7456      `
+/253            0           0     0     644     15924     `
+/287            0           0     0     644     7620      `
+/321            0           0     0     644     1080      `
+/355            0           0     0     644     16964     `
+/388            0           0     0     644     2516      `
+/427            0           0     0     644     1088      `
+/468            0           0     0     644     12420     `
+/481            0           0     0     644     1700      `
+/493            0           0     0     644     74100     `
+/505            0           0     0     644     7092      `
+/514            0           0     0     644     5948      `
+/527            0           0     0     644     7808      `
+/544            0           0     0     644     19016     `

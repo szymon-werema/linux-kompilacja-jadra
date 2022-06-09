@@ -1,0 +1,1 @@
+cmd_arch/x86/crypto/built-in.a := echo >/dev/null; rm -f arch/x86/crypto/built-in.a; ar cDPrST arch/x86/crypto/built-in.a arch/x86/crypto/twofish-i586-asm_32.o arch/x86/crypto/twofish_glue.o arch/x86/crypto/aesni-intel_asm.o arch/x86/crypto/aesni-intel_glue.o arch/x86/crypto/crc32c-intel_glue.o

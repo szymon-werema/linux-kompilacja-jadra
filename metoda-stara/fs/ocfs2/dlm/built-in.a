@@ -1,0 +1,20 @@
+!<thin>
+//                                              114       `
+dlmdomain.o/
+dlmdebug.o/
+dlmthread.o/
+dlmrecovery.o/
+dlmmaster.o/
+dlmast.o/
+dlmconvert.o/
+dlmlock.o/
+dlmunlock.o/
+/0              0           0     0     644     41628     `
+/13             0           0     0     644     17972     `
+/25             0           0     0     644     14200     `
+/38             0           0     0     644     55364     `
+/53             0           0     0     644     59040     `
+/66             0           0     0     644     10080     `
+/76             0           0     0     644     11196     `
+/90             0           0     0     644     14872     `
+/101            0           0     0     644     12532     `

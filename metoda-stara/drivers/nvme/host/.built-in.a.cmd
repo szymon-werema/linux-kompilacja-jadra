@@ -1,0 +1,1 @@
+cmd_drivers/nvme/host/built-in.a := echo >/dev/null; rm -f drivers/nvme/host/built-in.a; ar cDPrST drivers/nvme/host/built-in.a drivers/nvme/host/core.o drivers/nvme/host/ioctl.o drivers/nvme/host/constants.o drivers/nvme/host/trace.o drivers/nvme/host/multipath.o drivers/nvme/host/zns.o drivers/nvme/host/hwmon.o drivers/nvme/host/pci.o

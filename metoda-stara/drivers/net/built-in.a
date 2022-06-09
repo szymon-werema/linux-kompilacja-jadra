@@ -1,0 +1,13 @@
+!<thin>
+//                                              84        `
+loopback.o/
+phy/mii_timestamper.o/
+virtio_net.o/
+wwan/wwan_core.o/
+net_failover.o/
+
+/0              0           0     0     644     7608      `
+/12             0           0     0     644     4172      `
+/35             0           0     0     644     54536     `
+/49             0           0     0     644     20856     `
+/67             0           0     0     644     13744     `

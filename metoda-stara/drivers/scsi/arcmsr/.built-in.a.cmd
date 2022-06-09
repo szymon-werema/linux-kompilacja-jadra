@@ -1,0 +1,1 @@
+cmd_drivers/scsi/arcmsr/built-in.a := echo >/dev/null; rm -f drivers/scsi/arcmsr/built-in.a; ar cDPrST drivers/scsi/arcmsr/built-in.a drivers/scsi/arcmsr/arcmsr_attr.o drivers/scsi/arcmsr/arcmsr_hba.o

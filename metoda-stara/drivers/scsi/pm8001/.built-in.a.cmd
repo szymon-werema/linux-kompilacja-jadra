@@ -1,0 +1,1 @@
+cmd_drivers/scsi/pm8001/built-in.a := echo >/dev/null; rm -f drivers/scsi/pm8001/built-in.a; ar cDPrST drivers/scsi/pm8001/built-in.a drivers/scsi/pm8001/pm8001_init.o drivers/scsi/pm8001/pm8001_sas.o drivers/scsi/pm8001/pm8001_ctl.o drivers/scsi/pm8001/pm8001_hwi.o drivers/scsi/pm8001/pm80xx_hwi.o drivers/scsi/pm8001/pm80xx_tracepoints.o

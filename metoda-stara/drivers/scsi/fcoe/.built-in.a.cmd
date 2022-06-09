@@ -1,0 +1,1 @@
+cmd_drivers/scsi/fcoe/built-in.a := echo >/dev/null; rm -f drivers/scsi/fcoe/built-in.a; ar cDPrST drivers/scsi/fcoe/built-in.a drivers/scsi/fcoe/fcoe.o drivers/scsi/fcoe/fcoe_ctlr.o drivers/scsi/fcoe/fcoe_transport.o drivers/scsi/fcoe/fcoe_sysfs.o
