@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/mediatek/built-in.a := echo >/dev/null; rm -f drivers/media/platform/mediatek/built-in.a; ar cDPrST drivers/media/platform/mediatek/built-in.a drivers/media/platform/mediatek/jpeg/built-in.a drivers/media/platform/mediatek/mdp/built-in.a drivers/media/platform/mediatek/vcodec/built-in.a drivers/media/platform/mediatek/vpu/built-in.a

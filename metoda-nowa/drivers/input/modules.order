@@ -1,0 +1,3 @@
+drivers/input/mouse/psmouse.ko
+drivers/input/joydev.ko
+drivers/input/evdev.ko

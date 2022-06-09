@@ -1,0 +1,30 @@
+!<thin>
+//                                              176       `
+core.o/
+card.o/
+driver.o/
+resource.o/
+manager.o/
+support.o/
+interface.o/
+quirks.o/
+system.o/
+pnpacpi/core.o/
+pnpacpi/rsparser.o/
+isapnp/core.o/
+isapnp/compat.o/
+isapnp/proc.o/
+/0              0           0     0     644     5504      `
+/8              0           0     0     644     8064      `
+/16             0           0     0     644     6612      `
+/26             0           0     0     644     12304     `
+/38             0           0     0     644     9804      `
+/49             0           0     0     644     4944      `
+/60             0           0     0     644     7868      `
+/73             0           0     0     644     7368      `
+/83             0           0     0     644     3016      `
+/93             0           0     0     644     7512      `
+/109            0           0     0     644     11064     `
+/129            0           0     0     644     17032     `
+/144            0           0     0     644     2104      `
+/161            0           0     0     644     2572      `

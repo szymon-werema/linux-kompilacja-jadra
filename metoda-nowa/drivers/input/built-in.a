@@ -1,0 +1,25 @@
+!<thin>
+//                                              154       `
+input.o/
+input-compat.o/
+input-mt.o/
+input-poller.o/
+ff-core.o/
+touchscreen.o/
+ff-memless.o/
+vivaldi-fmap.o/
+input-leds.o/
+mousedev.o/
+keyboard/atkbd.o/
+
+/0              0           0     0     644     46840     `
+/9              0           0     0     644     2536      `
+/25             0           0     0     644     8420      `
+/37             0           0     0     644     6772      `
+/53             0           0     0     644     6260      `
+/64             0           0     0     644     5224      `
+/79             0           0     0     644     7252      `
+/93             0           0     0     644     2032      `
+/109            0           0     0     644     5488      `
+/123            0           0     0     644     16152     `
+/135            0           0     0     644     32508     `

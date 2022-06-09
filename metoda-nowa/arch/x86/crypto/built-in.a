@@ -1,0 +1,13 @@
+!<thin>
+//                                              100       `
+twofish-i586-asm_32.o/
+twofish_glue.o/
+aesni-intel_asm.o/
+aesni-intel_glue.o/
+crc32c-intel_glue.o/
+
+/0              0           0     0     644     4248      `
+/23             0           0     0     644     3832      `
+/39             0           0     0     644     4968      `
+/58             0           0     0     644     10032     `
+/78             0           0     0     644     4076      `

@@ -1,0 +1,13 @@
+!<thin>
+//                                              88        `
+intel/pmc/core.o/
+intel/pmc/pltdrv.o/
+intel_scu_ipc.o/
+intel_scu_pcidrv.o/
+pmc_atom.o/
+
+/0              0           0     0     644     39764     `
+/18             0           0     0     644     3040      `
+/38             0           0     0     644     14220     `
+/55             0           0     0     644     2644      `
+/75             0           0     0     644     12276     `

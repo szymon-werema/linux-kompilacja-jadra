@@ -1,0 +1,1 @@
+cmd_drivers/pinctrl/intel/built-in.a := echo >/dev/null; rm -f drivers/pinctrl/intel/built-in.a; ar cDPrST drivers/pinctrl/intel/built-in.a drivers/pinctrl/intel/pinctrl-baytrail.o drivers/pinctrl/intel/pinctrl-intel.o

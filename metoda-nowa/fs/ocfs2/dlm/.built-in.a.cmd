@@ -1,0 +1,1 @@
+cmd_fs/ocfs2/dlm/built-in.a := echo >/dev/null; rm -f fs/ocfs2/dlm/built-in.a; ar cDPrST fs/ocfs2/dlm/built-in.a fs/ocfs2/dlm/dlmdomain.o fs/ocfs2/dlm/dlmdebug.o fs/ocfs2/dlm/dlmthread.o fs/ocfs2/dlm/dlmrecovery.o fs/ocfs2/dlm/dlmmaster.o fs/ocfs2/dlm/dlmast.o fs/ocfs2/dlm/dlmconvert.o fs/ocfs2/dlm/dlmlock.o fs/ocfs2/dlm/dlmunlock.o

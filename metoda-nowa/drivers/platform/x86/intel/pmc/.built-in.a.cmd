@@ -1,0 +1,1 @@
+cmd_drivers/platform/x86/intel/pmc/built-in.a := echo >/dev/null; rm -f drivers/platform/x86/intel/pmc/built-in.a; ar cDPrST drivers/platform/x86/intel/pmc/built-in.a drivers/platform/x86/intel/pmc/core.o drivers/platform/x86/intel/pmc/pltdrv.o

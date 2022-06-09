@@ -1,0 +1,1 @@
+cmd_arch/x86/boot/compressed/vmlinux.bin.lzma := { cat arch/x86/boot/compressed/vmlinux.bin arch/x86/boot/compressed/vmlinux.relocs | lzma -9; printf \\340\\035\\250\\001; } > arch/x86/boot/compressed/vmlinux.bin.lzma

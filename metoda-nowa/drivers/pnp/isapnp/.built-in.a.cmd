@@ -1,0 +1,1 @@
+cmd_drivers/pnp/isapnp/built-in.a := echo >/dev/null; rm -f drivers/pnp/isapnp/built-in.a; ar cDPrST drivers/pnp/isapnp/built-in.a drivers/pnp/isapnp/core.o drivers/pnp/isapnp/compat.o drivers/pnp/isapnp/proc.o
