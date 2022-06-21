@@ -1,0 +1,10 @@
+#define ZO__ehead 0x000000aa
+#define ZO__end 0x009ba000
+#define ZO__text 0x0099db90
+#define ZO_efi32_stub_entry 0x0000009c
+#define ZO_efi_pe_entry 0x009a4375
+#define ZO_input_data 0x000000aa
+#define ZO_kernel_info 0x009a5f40
+#define ZO_startup_32 0x00000000
+#define ZO_z_input_len 0x0099dae4
+#define ZO_z_output_len 0x01a81de0
